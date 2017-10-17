@@ -35,3 +35,8 @@ li a:hover {
 .affix + .container {
 	padding: 5px;
 }
+
+.navbar {
+margin: 0px auto; /*You can set your own margin for top-bottom & right-left respectively*/
+z-index: 1;
+}
