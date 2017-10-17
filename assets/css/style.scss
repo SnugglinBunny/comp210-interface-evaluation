@@ -27,3 +27,11 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.affix {
+	top: 0px;
+	margin: 0px 20px;
+}
+.affix + .container {
+	padding: 5px;
+}
